@@ -1,0 +1,14 @@
+ [
+    {
+      "reportTemplatePath": "templates/address-label.jrxml",
+      "baseUrl": "http://shbuilds.tech:8000",
+      "resourceKey": "FD_AL_S",
+      "resourceUri": "/api/resource/Family%20Details"
+    },
+   {
+     "reportTemplatePath": "templates/address-labels.jrxml",
+     "baseUrl": "http://shbuilds.tech:8000",
+     "resourceKey": "FD_AL_L",
+     "resourceUri": "/api/resource/Family%20Details"
+   }
+ ]
